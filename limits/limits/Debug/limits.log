@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\1\C++\黑马程序员\limits\limits\main.cpp(134,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  limits.vcxproj -> D:\1\C++\黑马程序员\limits\Debug\limits.exe
