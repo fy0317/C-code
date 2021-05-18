@@ -1,0 +1,6 @@
+﻿  circle.cpp
+  point.cpp
+  点和圆的关系.cpp
+D:\1\C++\黑马程序员\立方体类\立方体类\点和圆的关系.cpp(58,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  立方体类.vcxproj -> D:\1\C++\黑马程序员\立方体类\Debug\立方体类.exe
