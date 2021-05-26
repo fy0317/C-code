@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\1\C++\黑马程序员\函数\函数\源.cpp(13,30): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\1\C++\黑马程序员\函数\函数\源.cpp(13,23): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+  函数.vcxproj -> D:\1\C++\黑马程序员\函数\Debug\函数.exe
