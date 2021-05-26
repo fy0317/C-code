@@ -1,0 +1,4 @@
+Make and model:abc
+Year:2021
+Was asking $123454.00
+Now asking $112713.50
