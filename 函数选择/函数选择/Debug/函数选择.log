@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\1\C++\黑马程序员\函数选择\函数选择\main.cpp(72,25): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\1\C++\黑马程序员\函数选择\函数选择\main.cpp(72,22): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  函数选择.vcxproj -> D:\1\C++\黑马程序员\函数选择\Debug\函数选择.exe
