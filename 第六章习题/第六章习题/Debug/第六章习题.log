@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\学习\C++\PrimerPlus\习题\第六章习题\第六章习题\main.cpp(118,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\学习\C++\PrimerPlus\习题\第六章习题\第六章习题\main.cpp(120,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\学习\C++\PrimerPlus\习题\第六章习题\第六章习题\main.cpp(121,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  第六章习题.vcxproj -> D:\学习\C++\PrimerPlus\习题\第六章习题\Debug\第六章习题.exe
