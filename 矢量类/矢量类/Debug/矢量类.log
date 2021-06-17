@@ -1,0 +1,4 @@
+﻿  randwalk.cpp
+D:\学习\C++\PrimerPlus\矢量类\矢量类\randwalk.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\学习\C++\PrimerPlus\矢量类\矢量类\randwalk.cpp(49,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  矢量类.vcxproj -> D:\学习\C++\PrimerPlus\矢量类\Debug\矢量类.exe
